@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... AWS
 - 🌱 I’m currently learning ... Data Engineering
 - 👯 I’m looking to collaborate on ... JavaScript
